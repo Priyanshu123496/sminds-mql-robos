@@ -1,0 +1,3 @@
+tools/__pycache__/
+# ignore outputs folder
+outputs/

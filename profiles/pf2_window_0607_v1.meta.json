@@ -1,0 +1,16 @@
+{
+  "profile_id": "pf2_window_0607_v1",
+  "symbol": "XAUUSD",
+  "timeframe": "M15",
+  "validated_period_from": "2025.08.01",
+  "validated_period_to": "2026.02.22",
+  "pf": 2.234899,
+  "dd_pct": 11.1788,
+  "trades": 35,
+  "notes": [
+    "Preset-only profile. EA source defaults remain unchanged.",
+    "Narrow session profile: SessionStartServerHour=6, SessionEndServerHour=7.",
+    "Requires cross-window robustness validation before production classification."
+  ],
+  "created_utc": "2026-02-23T00:00:00Z"
+}

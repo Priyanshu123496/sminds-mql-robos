@@ -1,0 +1,17 @@
+{
+    "profile_id":  "xauusd_h1_ema_v1",
+    "symbol":  "XAUUSD",
+    "timeframe":  "H1",
+    "validated_period_from":  "2025.08.01",
+    "validated_period_to":  "2026.02.22",
+    "pf":  0.90754722276797,
+    "dd_pct":  3.5629000000000084,
+    "trades":  4,
+    "notes":  [
+                  "classification=niche-profile",
+                  "is_2020_2025_pf=0.907212462927354",
+                  "is_2020_2025_dd_pct=12.9374480038741",
+                  "is_2020_2025_trades=24"
+              ],
+    "created_utc":  "2026-02-24T04:14:02.6360804Z"
+}

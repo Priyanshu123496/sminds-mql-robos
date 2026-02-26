@@ -1,0 +1,28 @@
+{
+    "profile_id":  "xauusd_v1_monthly_60_70_v1",
+    "symbol":  "XAUUSD",
+    "timeframe":  "H1",
+    "objective_monthly_balance_ratio":  1.6,
+    "objective_monthly_balance_ratio_max":  1.7,
+    "monthly_pf_min":  1.75,
+    "monthly_dd_max_pct":  20.0,
+    "monthly_min_trades":  20,
+    "validation_window_from":  "2025-02-01",
+    "validation_window_to":  "2026-01-31",
+    "months_passed":  1,
+    "months_total":  12,
+    "classification":  "niche-profile",
+    "best_month":  {
+                       "month_key":  "2025-10",
+                       "pf":  2.08483970028252,
+                       "dd_pct":  6.55980609014377,
+                       "trades":  72,
+                       "balance_ratio":  1.662376
+                   },
+    "notes":  [
+                  "Meets requested monthly target in 2025-10 only",
+                  "Does not satisfy multi-month production robustness"
+              ],
+    "created_utc":  "2026-02-25T18:04:27.0044554Z",
+    "source_validation":  "outputs/validation/xauusd_v1_c167_r022_validation/validation_summary.json"
+}
