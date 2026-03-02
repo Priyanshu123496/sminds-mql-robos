@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "TTR-X Helper",
+    "slug": "ttrx-helper",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["ios", "android"],
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.blissminds.ttrxhelper"
+    },
+    "android": {
+      "package": "com.blissminds.ttrxhelper",
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      }
+    }
+  }
+}

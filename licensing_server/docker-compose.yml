@@ -1,0 +1,15 @@
+services:
+  license-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: sminds-license-api
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    environment:
+      DATABASE_URL: sqlite:///./data/license.db
+    volumes:
+      - ./data:/app/data

@@ -1,0 +1,26 @@
+# Existing patterns
+tools/__pycache__/
+outputs/
+
+# Python
+**/__pycache__/
+*.py[cod]
+*.pyd
+*.so
+.venv/
+venv/
+
+# Node/Expo
+**/node_modules/
+**/.expo/
+**/dist/
+
+# Local MT5 heavy outputs
+mt5/research_runs/
+mt5/Raw Data/*.csv
+*.sqlite
+*.db
+
+# Optional build / logs
+*.tmp
+*.bak

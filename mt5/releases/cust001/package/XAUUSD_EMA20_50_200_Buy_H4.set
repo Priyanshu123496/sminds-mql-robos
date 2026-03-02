@@ -1,0 +1,5 @@
+InpLotSize=1.0
+InpLicenseId=
+InpOtp=
+InpLicenseApiBase=http://127.0.0.1:8000
+InpAllowTradingWithoutLicense=false

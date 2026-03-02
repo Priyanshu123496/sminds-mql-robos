@@ -1,0 +1,4 @@
+InpLotSize=7.0
+InpFastEmaPeriod=34
+InpSlowEmaPeriod=89
+InpStrategyTimeframe=16385
