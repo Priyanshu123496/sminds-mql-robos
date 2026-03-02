@@ -1,0 +1,18 @@
+{
+    "profile_id":  "xauusd_v1_prod_monthly_v1",
+    "symbol":  "XAUUSD",
+    "timeframe":  "H1",
+    "objective_monthly_balance_ratio":  1.8,
+    "monthly_pf_min":  1.75,
+    "monthly_dd_max_pct":  20,
+    "monthly_min_trades":  20,
+    "months_passed":  0,
+    "months_total":  12,
+    "classification":  "niche-profile",
+    "notes":  [
+                  "median_monthly_balance_ratio=1.233319",
+                  "median_monthly_pf=1.26484819118403",
+                  "worst_month_dd_pct=44.7371"
+              ],
+    "created_utc":  "2026-02-24T21:13:38.8258935Z"
+}

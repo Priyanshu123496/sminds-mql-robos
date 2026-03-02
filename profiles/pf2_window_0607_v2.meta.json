@@ -1,0 +1,17 @@
+{
+    "profile_id":  "pf2_window_0607_v2",
+    "symbol":  "XAUUSD",
+    "timeframe":  "M15",
+    "validated_period_from":  "2025.08.01",
+    "validated_period_to":  "2026.02.22",
+    "pf":  2.5369059677248265,
+    "dd_pct":  16.321100000000005,
+    "trades":  52,
+    "notes":  [
+                  "Selected by staged constrained fallback search over session/exit/volatility controls.",
+                  "Final validation classification: niche-profile",
+                  "OOS median PF: 0.9644",
+                  "OOS max DD%: 34.59"
+              ],
+    "created_utc":  "2026-02-23T12:30:23.7722692Z"
+}

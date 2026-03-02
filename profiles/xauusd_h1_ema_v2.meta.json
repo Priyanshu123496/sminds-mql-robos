@@ -1,0 +1,26 @@
+{
+    "profile_id":  "xauusd_h1_ema_v2",
+    "symbol":  "XAUUSD",
+    "timeframe":  "H1",
+    "source_run":  "xauusd_h1_ema_prod_r5",
+    "source_candidate_id":  "c028_news_noff",
+    "classification":  "niche-profile",
+    "validated_period_from":  "2025.08.01",
+    "validated_period_to":  "2026.02.22",
+    "confirm_pf":  1.02882648316905,
+    "confirm_dd_pct":  1.61309999999999,
+    "confirm_trades":  4,
+    "oos_aggregate_pf":  1.56693333995876,
+    "oos_median_pf":  7.82629498647805,
+    "oos_min_pf":  0,
+    "oos_max_dd_pct":  6.39040000000001,
+    "oos_trades":  11,
+    "holdout_pf":  0,
+    "holdout_trades":  0,
+    "notes":  [
+                  "best-available-from-r5",
+                  "not-production-ready",
+                  "one-position-rule-enabled"
+              ],
+    "created_utc":  "2026-02-24T05:11:13.8723595Z"
+}
