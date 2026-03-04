@@ -1,4 +1,4 @@
-#property copyright "Bliss Minds Inc."
+#property copyright "Blissful Minds Inc."
 #property version   "1.00"
 #property strict
 
